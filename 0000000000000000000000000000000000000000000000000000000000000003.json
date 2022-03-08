@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Spartan"
+    },
+    {
+      "trait_type": "Blood",
+      "value": "Epic"
+    }
+  ],
+  "description": "God of war.",
+  "image": "https://raw.githubusercontent.com/Nachota66/Dioses/main/Ares.png",
+  "name": "Ares"
+}
