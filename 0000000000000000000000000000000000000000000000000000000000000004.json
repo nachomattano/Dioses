@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Goddess"
+    },
+    {
+      "trait_type": "Nature",
+      "value": "Uncommon"
+    }
+  ],
+  "description": "Goddess of nature.",
+  "image": "https://raw.githubusercontent.com/Nachota66/Dioses/main/Artemisa.png",
+  "name": "Artemisa"
+}
