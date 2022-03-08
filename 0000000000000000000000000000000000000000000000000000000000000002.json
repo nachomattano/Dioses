@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Water",
+      "value": "Legendary"
+    }
+  ],
+  "description": "brother of Zeus, the god of water.",
+  "image": "https://raw.githubusercontent.com/Nachota66/Dioses/main/Poseid%C3%B3n.png",
+  "name": "Poseidón"
+}
