@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Servant"
+    },
+    {
+      "trait_type": "Blacksmith",
+      "value": "Common"
+    }
+  ],
+  "description": "Blacksmith of the gods.",
+  "image": "https://raw.githubusercontent.com/Nachota66/Dioses/main/Hefesto.png",
+  "name": "Hefesto"
+}
