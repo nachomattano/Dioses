@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Boss"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Mytic"
+    }
+  ],
+  "description": "The mightiest god of olympus boss of bosses.",
+  "image": "https://raw.githubusercontent.com/Nachota66/Dioses/main/Zeus.png",
+  "name": "Zeus"
+}
